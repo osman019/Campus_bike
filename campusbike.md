@@ -488,6 +488,6 @@ CREATE TABLE `venta` (
 
 
 
-N a 1 con Paquete
+
 ![alt text](image.png)
 ![alt text](image-1.png)
